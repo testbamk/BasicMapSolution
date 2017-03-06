@@ -181,4 +181,5 @@ public class BasicMapActivity extends AppCompatActivity {
      */
 
     /*new commit comment*/
+    /*new2*/
 }
