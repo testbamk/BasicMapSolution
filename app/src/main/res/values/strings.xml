@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Here maps test</string>
+    <string name="label_button_gohome">Go Home</string>
+    <string name="label_button_changescheme">Change Map Scheme</string>
+</resources>
